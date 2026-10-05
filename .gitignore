@@ -1,0 +1,9 @@
+# .gitignore para un proyecto de diseño de proteínas
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+outputs/
+*.pdb
+*.pt
+*.ckpt
+.env
